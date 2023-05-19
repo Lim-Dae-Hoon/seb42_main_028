@@ -10,6 +10,10 @@
 | 프로젝트 기간 | 2023.03.03 - 2023.04.03 |
 |   배포 링크   |      [링크](https://seb42-main-028.vercel.app)       |
 
+
+    테스트 계정        ID : admin@gmail.com    
+                    PW : qwert1234
+
 <br/>
 
 ## ✈️ 서비스 설명
