@@ -52,4 +52,4 @@
 ## 💡 참고 문서
 
 ### 서비스 메뉴얼
-[서비스 메뉴얼](https://file.notion.so/f/s/30b453c2-aad9-4489-8de5-e7991a1f515f/42%E1%84%80%E1%85%B5-Team-028-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%E1%84%86%E1%85%A6%E1%84%82%E1%85%B2%E1%84%8B%E1%85%A5%E1%86%AF.pdf?id=f5a2ba82-7933-4dbe-a36e-27fb4ecea8fa&table=block&spaceId=82d63a72-8254-4cde-bf1e-b2597b7c099c&expirationTimestamp=1684494052844&signature=KCjKsesxAsoKOzFCrTEDmfvP_oXvSlggjEKZfttG62w&downloadName=42%E1%84%80%E1%85%B5-Team-028-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%E1%84%86%E1%85%A6%E1%84%82%E1%85%B2%E1%84%8B%E1%85%A5%E1%86%AF.pdf)
+[서비스 메뉴얼](https://drive.google.com/file/d/1gU5PapJqBr69TYhDBsGAZFGiiLSIxuRt/view?usp=sharing)
